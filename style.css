@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.container {
+    display: flex;          
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;     
+    height: 70vh;
+}
+
+h1 {
+    color: #46C016;
+    width: 300px;
+    margin: 5px;
+    text-align: center;  
+    font-family: 'Potta One', cursive;   
+}
